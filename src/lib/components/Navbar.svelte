@@ -7,8 +7,8 @@
 {#if showBanner}
 	<div class="bg-primary-50 border-b border-border py-2 px-4 text-xs font-mono flex justify-center items-center relative">
 		<div class="flex items-center gap-2">
-			<span class="text-muted">We raised $100M to build the web's second user.</span>
-			<a href="#" class="underline decoration-muted hover:text-accent transition-colors">Read more.</a>
+			<span class="text-muted">Production-ready RAG in minutes, not months.</span>
+			<a href="#" class="underline decoration-muted hover:text-accent transition-colors">Get started free.</a>
 		</div>
 		<button 
 			class="absolute right-4 text-muted hover:text-foreground"
@@ -32,16 +32,16 @@
 				<path d="M16 4V20" stroke="currentColor" stroke-width="2"/>
 				<path d="M4 12H20" stroke="currentColor" stroke-width="2"/>
 			</svg>
-			<span class="font-sans font-semibold">parallel</span>
+			<span class="font-sans font-semibold">Agentset</span>
 		</a>
 
 		<!-- Links -->
 		<div class="hidden md:flex items-center gap-8 font-mono text-xs text-muted">
-			<a href="#" class="hover:text-foreground transition-colors">About</a>
-			<a href="#" class="hover:text-foreground transition-colors">Search</a>
+			<a href="#" class="hover:text-foreground transition-colors">Features</a>
 			<a href="#" class="hover:text-foreground transition-colors">Pricing</a>
-			<a href="#" class="hover:text-foreground transition-colors">Blog</a>
 			<a href="#" class="hover:text-foreground transition-colors">Docs</a>
+			<a href="#" class="hover:text-foreground transition-colors">Blog</a>
+			<a href="#" class="hover:text-foreground transition-colors">Careers</a>
 		</div>
 
 		<!-- CTA -->
